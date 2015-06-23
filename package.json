@@ -1,0 +1,10 @@
+{
+  "name": "crawler-user-agents",
+  "version": "0.0.1",
+  "author": "Martin Monperrus",
+  "description": "Package crawler-user-agents contains a list of of HTTP user-agents used by robots/crawlers/spiders.",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/geometria-lab/crawler-user-agents.git"
+  }
+}
